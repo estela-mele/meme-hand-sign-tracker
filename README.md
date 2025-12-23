@@ -84,6 +84,6 @@ If you run into errors, try updating your packages:
 
 </details>
 
-❤️ Contributions
+## ❤️ Contributions
 
 Contributions, issues, and feature requests are welcome!
