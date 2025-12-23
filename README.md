@@ -1,1 +1,0 @@
-# meme-hand-sign-tracker
